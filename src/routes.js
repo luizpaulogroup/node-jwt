@@ -2,6 +2,8 @@ const express = require('express');
 
 const jwt = require('./jwt/signin');
 
+const knex = require('./database/connection');
+
 const authMiddleware = require('./Middlewares/auth');
 
 const routes = express.Router();
