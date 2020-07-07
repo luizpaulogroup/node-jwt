@@ -16,6 +16,10 @@
 This project was developed with the technologies:
 
 -  [Visual Studio Code](https://code.visualstudio.com/)
+-  [Node](https://nodejs.org/en/)
+-  [express](https://github.com/expressjs/express)
+-  [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+-  [nodemon](https://github.com/remy/nodemon)
 
 ## :information_source: How To Use
 
