@@ -8,7 +8,7 @@ const routes = express.Router();
 
 routes.post('/auth', (req, res) => {
 
-    const token = jwt({ id: admin.id });
+    const token = jwt({ id: 1 });
 
     return res.json({ token });
 });
