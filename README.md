@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React logo" width="160px" height="100px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/jwt-logo.png" />
+    <img alt="React logo" width="170px" height="100px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/jwt-logo.png" />
     <br>
     JESON WEB TOKEN
 </h1>
